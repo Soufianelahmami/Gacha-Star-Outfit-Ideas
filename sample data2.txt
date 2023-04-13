@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Are you a fan of Gacha Life and love to create unique outfits for your characters? Look no further than the Gacha Star Outfit Ideas app! This fun and creative application is perfect for fashion enthusiasts who love to mix and match different styles to create the perfect look for their Gacha characters.","photo":"https://iili.io/HvAFlJs.jpg"},
+  {"title":"how to use this app 2","desc":"Are you a Gacha Life lover who enjoys designing original attire for your characters? Use the Gacha Star Outfit Ideas app instead! For fashion enthusiasts who want to mix and combine various looks to create the ideal appearance for your Gacha avatars, this entertaining and inventive application is ideal.","https://iili.io/HvAF7ft.jpg"},
+  {"title":"tips pack 3","desc":"With the Gacha Star Outfit Ideas app, you have access to a vast collection of clothing items, accessories, and hairstyles that you can mix and match to create your unique outfit designs. Whether you prefer a cute and trendy look or a more edgy and dramatic style, this app has something for everyone.","photo":"https://iili.io/HvAFagn.jpg"},
+  {"title":"advice mod 4","desc":"You can mix and match a variety of clothing items, accessories, and haircuts in the Gacha Star Outfit Ideas app to make your own own outfit ideas. This software has something for everyone, whether you want a pretty and contemporary look or a more edgy and dramatic style.","photo":"https://iili.io/HvAFY0X.jpg"},
+  {"title":"helper pack 5","desc":"One of the best features of this app is the user-friendly interface. The app is easy to navigate, and you can quickly find the clothing items and accessories you need to create your perfect outfit. The app also features a robust search function, which allows you to search for specific clothing items, colors, and styles.","photo":"https://iili.io/HvAF05G.jpg"},
+  {"title":"advance mod 6","desc":"The user-friendly layout of this program is one of its best qualities. You can quickly find the apparel and accessories you need to put together your ideal outfit with the app's simple navigation. You may use the app's robust search functionality to look for particular apparel items, colors, and designs.","photo":"https://iili.io/HvAFMzl.jpg"},
+  {"title":"tips pack 7","desc":"One of this program's main features is the intuitive design. The app's straightforward interface makes it easy to find the clothing and accessories you need to put together your perfect look. You can utilize the comprehensive search feature of the app to look for specific clothing items, colors, and designs.","photo":"https://iili.io/HvAFEb4.jpg"},
+  {"title":"advice mod 8","desc":"Another great feature of the Gacha Star Outfit Ideas app is the ability to save your favorite outfits to your device or share them with friends. You can also create multiple outfits and save them to your device, so you have them available for future use.","photo":"https://iili.io/HvAF1ef.webp"}
 
    ]
  
